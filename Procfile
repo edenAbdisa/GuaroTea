@@ -1,0 +1,1 @@
+web: gunicorn GuaroTea.wsgi --log-file -
